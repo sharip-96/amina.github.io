@@ -11,7 +11,7 @@
 <body>
  
     
-<header >
+<header>
 	<div class="logo"><a href="index.html"><img class="graficlogo" src="img/logo.png" alt="logo"></a></div>
 <nav>
 
