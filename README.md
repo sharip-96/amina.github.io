@@ -13,9 +13,7 @@
     
 <header>
 	<div class="logo"><a href="index.html"><img class="graficlogo" src="img/logo.png" alt="logo"></a></div>
-<nav>
-
-	<div class="topnav" id="mytopnav">
+<nav>	<div class="topnav" id="mytopnav">
 		<a href="index.html">Home</a>
 		<a href="projects.html">projects</a>
 		<a href="blog.html">blog</a>
