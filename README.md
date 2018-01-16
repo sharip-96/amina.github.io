@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Mirilis</title>
-	<link rel="stylesheet"  type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 	<script src="js/script.js"></script>	
 </head>
